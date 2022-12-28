@@ -4,17 +4,17 @@ Streamline your app development process with Flutter and MVC
 
 ## Application screenshot
 <p align="center">
-    <img src="screenshot/task.png" width="450" height="750" />
+    <img src="screenshots/task.png" width="450" height="750" />
 </p>
 
 ## Folder structure
 <p align="center">
-    <img src="screenshot/mvc.png" width="450" height="450" />
+    <img src="screenshots/mvc.png" width="450" height="450" />
 </p>
 
 ## Development Envirnoment Setup
 <p align="center">
-    <img src="screenshot/doctor.png" width="450" height="450" />
+    <img src="screenshots/doctor.png" width="450" height="450" />
 </p>
 
 - [Connect on LinkedIn](https://www.linkedin.com/in/muhammad-adil-mehmood/)
