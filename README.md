@@ -1,16 +1,22 @@
 # flutter_mvc
 
-A new Flutter project.
+Streamline your app development process with Flutter and MVC
 
-## Getting Started
+## Application screenshot
+<p align="center">
+    <img src="screenshot/task.png" width="450" height="750" />
+</p>
 
-This project is a starting point for a Flutter application.
+## Folder structure
+<p align="center">
+    <img src="screenshot/mvc.png" width="450" height="450" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Development Envirnoment Setup
+<p align="center">
+    <img src="screenshot/doctor.png" width="450" height="450" />
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Connect on LinkedIn](https://www.linkedin.com/in/muhammad-adil-mehmood/)
+- [Personal Website](https://adilworks.com/)
+- [Connect on Instagram](https://www.instagram.com/_adilhere/)
