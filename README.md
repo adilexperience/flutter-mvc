@@ -14,7 +14,7 @@ Streamline your app development process with Flutter and MVC
     <img src="screenshots/mvc.png" width="550" height="450" />
 </p>
 
-## Development Envirnoment Setup
+###### Development Envirnoment Setup
 <p align="center">
     <img src="screenshots/doctor.png" width="550" height="450" />
 </p>
